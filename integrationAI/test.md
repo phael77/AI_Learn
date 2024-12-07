@@ -8,3 +8,5 @@ Ai precisamos instanciar uma classe depois para a comunicação do script com o 
 Depois criamos a classe de resposta chamada response, onde instanciamos o modelo e no script que é bem simples, também instanciamos os papéis da LLM na conversa.
 
 Por fim apenas imprimimos a saída no terminal.
+
+Há um teste em response ou seja ele me da a resposta inteira de uma vez e um teste em chunk, ou seja a resposta em partes pequenas até completar tudo igual vemos no ChatGPT.
