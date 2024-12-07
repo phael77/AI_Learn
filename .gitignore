@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
-=======
-#Byte-compiled / optimized / DLL files
->>>>>>> 1051662 (Create .gitignore)
 __pycache__/
 *.py[cod]
 *$py.class
